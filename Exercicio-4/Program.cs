@@ -11,7 +11,7 @@ namespace Exercicio_4
             vreais=float.Parse(Console.ReadLine());
             Console.WriteLine("Qual a cotação do dolar? ");
             cot= float.Parse(Console.ReadLine());
-            vdolar=vreais*cot;
+            vdolar=vreais/cot;
             Console.WriteLine($"Esse valor em dolares é: {vdolar}");
         }
     }
