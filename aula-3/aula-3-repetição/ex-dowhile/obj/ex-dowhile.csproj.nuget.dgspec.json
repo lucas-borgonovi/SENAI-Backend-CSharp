@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3\\ex-dowhile\\ex-dowhile.csproj": {}
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3-repetição\\ex-dowhile\\ex-dowhile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3\\ex-dowhile\\ex-dowhile.csproj": {
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3-repetição\\ex-dowhile\\ex-dowhile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3\\ex-dowhile\\ex-dowhile.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3-repetição\\ex-dowhile\\ex-dowhile.csproj",
         "projectName": "ex-dowhile",
-        "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3\\ex-dowhile\\ex-dowhile.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3-repetição\\ex-dowhile\\ex-dowhile.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3\\ex-dowhile\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\aula-3-repetição\\ex-dowhile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
