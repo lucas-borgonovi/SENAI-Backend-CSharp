@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\bin\Debug\netcoreapp2.2\aula-4-vetores.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\bin\Debug\netcoreapp2.2\aula-4-vetores.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\bin\Debug\netcoreapp2.2\aula-4-vetores.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\bin\Debug\netcoreapp2.2\aula-4-vetores.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\bin\Debug\netcoreapp2.2\aula-4-vetores.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\obj\Debug\netcoreapp2.2\aula-4-vetores.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\obj\Debug\netcoreapp2.2\aula-4-vetores.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\obj\Debug\netcoreapp2.2\aula-4-vetores.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\obj\Debug\netcoreapp2.2\aula-4-vetores.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\obj\Debug\netcoreapp2.2\aula-4-vetores.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4-vetores\obj\Debug\netcoreapp2.2\aula-4-vetores.pdb
