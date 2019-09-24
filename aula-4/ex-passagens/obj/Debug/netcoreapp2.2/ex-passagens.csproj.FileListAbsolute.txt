@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\obj\Debug\netcoreapp2.2\ex-passagens.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\obj\Debug\netcoreapp2.2\ex-passagens.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\obj\Debug\netcoreapp2.2\ex-passagens.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\obj\Debug\netcoreapp2.2\ex-passagens.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\bin\Debug\netcoreapp2.2\ex-passagens.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\bin\Debug\netcoreapp2.2\ex-passagens.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\bin\Debug\netcoreapp2.2\ex-passagens.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\bin\Debug\netcoreapp2.2\ex-passagens.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\bin\Debug\netcoreapp2.2\ex-passagens.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\obj\Debug\netcoreapp2.2\ex-passagens.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula-4\ex-passagens\obj\Debug\netcoreapp2.2\ex-passagens.pdb
