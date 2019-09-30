@@ -9,6 +9,7 @@ namespace ex_3
             int idade;
             string nome,sobrenome;
             double peso,altura;
+            
             MostraInfo();
             
             Console.Write("Digite o seu nome: ");
@@ -34,5 +35,6 @@ namespace ex_3
         static void MostraInfo(int idade,double peso,double altura){
             Console.Write($"Idade: {idade}, Peso:{peso}, Altura: {altura}");
         }
+
     }
 }

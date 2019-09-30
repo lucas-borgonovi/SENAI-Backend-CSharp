@@ -6,7 +6,7 @@ namespace ex_4
     {
         static void Main(string[] args)
         {
-            int[] numero={-5,-2,-1,-9};
+            int[] numero={-5,-2,7,0};
             Console.WriteLine(Maior(numero));
         }
         static int Maior(int[] num){
